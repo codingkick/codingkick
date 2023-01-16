@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Ranjan</h1>
 <h3 align="center">I love web development and i am very fond of solving questions related to Data structure and Algorithm.</h3>
 
-- 🔭 I’m currently working on [Google meet transcript generator](https://github.com/codingkick/googleMeetTranscript-generator)
+- 🔭 I’m currently working on [comeOn](https://github.com/codingkick/comeon)
 
 - 🌱 I’m currently learning **React**
 
